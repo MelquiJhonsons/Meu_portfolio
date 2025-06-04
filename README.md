@@ -1,24 +1,24 @@
 # Portfólio - Melqui Jhonsons
 
-Este é o portfólio pessoal de Melqui Jhonsons, estudante de Sistemas de Informação com foco em Front-end. O site apresenta uma breve descrição sobre Melqui, seus projetos e informações de contato.
+Este é o meu portfólio pessoal, com breves informações sobre mim, estudante de Sistemas de Informação e me aperfeiçoando em Front-end. O site apresenta uma breve descrição sobre mim, meus projetos e informações de contato.
 
 ---
 
 ## Tecnologias usadas
 
-- HTML5
-- CSS3
-- JavaScript (referenciado, mas não implementado neste projeto)
+- HTML
+- CSS
+- JavaScript
 
 ---
 
 ## Estrutura do projeto
 
-- `index.html`: Página principal do portfólio.
-- `style.css`: Arquivo de estilos para a página.
-- `melqui.jpeg`: Foto de perfil do Melqui.
-- `icon.png`: Ícone (favicon) do site.
-- `index.js`: Arquivo para scripts JavaScript (atualmente vazio ou referenciado).
+- index.html: Página principal do portfólio.
+- style.css: Arquivo de estilos para a página.
+- melqui.jpeg: Foto de perfil do Melqui.
+- icon.png: Ícone (favicon) do site.
+- index.js: Arquivo para scripts JavaScript (atualmente vazio ou referenciado).
 
 ---
 
