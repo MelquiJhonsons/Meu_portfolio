@@ -2,7 +2,6 @@
 
 Este é o meu portfólio pessoal, com breves informações sobre mim, estudante de Sistemas de Informação e me aperfeiçoando em Front-end. O site apresenta uma breve descrição sobre mim, meus projetos e informações de contato.
 
-![banner](https://github.com/user-attachments/assets/5524fa54-6abd-4386-bca3-4b1f4199f723)
 ---
 
 ## Tecnologias usadas
