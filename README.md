@@ -1,4 +1,4 @@
-# Portfólio - Melqui Jhonsons
+# Portflolio - Melqui Jhonsons
 
 Este é o meu portfólio pessoal, com breves informações sobre mim, estudante de Sistemas de Informação e me aperfeiçoando em Front-end. O site apresenta uma breve descrição sobre mim, meus projetos e informações de contato.
 
